@@ -1,0 +1,23 @@
+{
+  "name": "ba",
+  "description": "ba",
+  "main": "index.js",
+  "authors": [
+    "slavisadjukic13@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.3",
+    "bootstrap": "3.3.7"
+  }
+}
